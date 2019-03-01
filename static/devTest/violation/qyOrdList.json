@@ -1,0 +1,63 @@
+{
+	"result": {
+		"list": [
+
+      {
+        "order_date": "2016-01-10",
+        "tp_order_type": "0",
+        "order_no": "201808080000",
+        "user_name": "用户13912345678",
+        "license_plate_no": "粤A12345",
+        "pay_date": "粤A12345",
+        "penalty_amount": "20000",
+        "commission": "20000",
+        "late_fee": "0",
+        "order_status": "8"
+
+      },
+      {
+        "order_date": "2017-01-10",
+        "tp_order_type": "1",
+        "order_no": "201808080000",
+        "user_name": "用户13912345678",
+        "license_plate_no": "粤A12345",
+        "pay_date": "粤A12345",
+        "penalty_amount": "30100",
+        "commission": "20020",
+        "late_fee": "0",
+        "order_status": "0"
+
+      },
+      {
+        "order_date": "2018-01-10",
+        "tp_order_type": "2",
+        "order_no": "201808080000",
+        "user_name": "用户13912345678",
+        "license_plate_no": "粤A12345",
+        "pay_date": "粤A12345",
+        "penalty_amount": "200100",
+        "commission": "20200",
+        "late_fee": "0",
+        "order_status": "2"
+
+      },
+      {
+        "order_date": "2019-01-10",
+        "tp_order_type": "1",
+        "order_no": "201808080000",
+        "user_name": "用户13912345678",
+        "license_plate_no": "粤A12345",
+        "pay_date": "粤A12345",
+        "penalty_amount": "20002",
+        "commission": "20200",
+        "late_fee": "100000",
+        "order_status": "4"
+
+      }
+    ],
+		"pageNo": "2",
+		"pageCount": "10",
+		"dataCount": "100"
+	},
+	"s_state":"ss0000"
+}

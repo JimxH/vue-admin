@@ -1,0 +1,28 @@
+{
+	"result": {
+		"list": [{
+			"query_date": "2019-01-10",
+			"query_count": "100",
+			"success_count": "60",
+			"car_error_count": "10",
+			"interface_error_count": "10",
+			"limit_count": "10",
+			"license_count": "100",
+			"license_sucess_count": "50"
+		},
+		{
+			"query_date": "2019-01-10",
+			"query_count": "100",
+			"success_count": "60",
+			"car_error_count": "10",
+			"interface_error_count": "10",
+			"limit_count": "10",
+			"license_count": "100",
+			"license_sucess_count": "50"
+		}],
+		"pageNo": "1",
+		"pageCount": "10",
+		"dataCount": "1"
+	},
+	"s_state":"ss0000"
+}

@@ -1,0 +1,25 @@
+{
+	"mp_account": "123456aa",
+	"mp_password": "123456",
+	"mp_company_name": "亚美通讯",
+	"mp_credit_code": "0123456789",
+	"mp_contact_person1": "周先生",
+	"mp_contact_phone1": "13622022202",
+	"mp_contact_person2": "李先生",
+	"mp_contact_phone2": "18622022202",
+	"mp_api_query": "开启",
+	"mp_page_query": "关闭",
+	"mp_residue_count": "1366",
+	"mp_warn_count": "1000",
+	"mp_owner_profit": "10.00",
+	"mp_point_profit": "20.00",
+	"mp_nopoint_profit": "5.00",
+	"mp_callback_domain": "123456@qq.com",
+	"mp_domain": "www.24pay.net",
+	"mp_application_id": "123456",
+	"mp_application_key": "654321",
+	"mp_default_return": "www.24pay.net?cb=123456",
+	"mp_access_token_callback": "www.24pay.net?cb=123456",
+	 
+	"s_state": "ss0000"
+}

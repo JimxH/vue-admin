@@ -1,0 +1,21 @@
+{
+	"result": {
+		"list": [{
+			"query_date":"2019-01-10",
+			"license_no":"粤A88888",  
+			"vehicle_type":"小型汽车",
+			"frame_no":"123456",
+			"engine_no":"123456",
+			"ip_no":"192.168.2.76",
+			"cost_time":"10.0s",
+			"query_status":"交罚查询正常",
+			"city_name" :"广东省广州市",
+			"result_count":"1"
+			
+		}],
+		"pageNo": "1",              
+		"pageCount": "10",          
+		"dataCount": "1"
+	},
+	"s_state":"ss0000"  
+}

@@ -1,0 +1,50 @@
+{
+	"result": {
+		"list": [
+      {
+			"Id": "32",
+			"company_name": "掌溢通科技网络",
+			"profit_month": "2019-04",
+			"profit_amount": "10112",
+			"profit_type": "转账",
+			"profit_datetime": "2018-02-21"
+		  },
+      {
+        "Id": "3",
+        "company_name": "亚美科技",
+        "profit_month": "2019-12",
+        "profit_amount": "43012",
+        "profit_type": "现金",
+        "profit_datetime": "2018-02-21"
+      },
+      {
+        "Id": "2",
+        "company_name": "思科集体",
+        "profit_month": "2019-10",
+        "profit_amount": "101312",
+        "profit_type": "转账",
+        "profit_datetime": "2018-02-21"
+      },
+      {
+        "Id": "6",
+        "company_name": "联发科",
+        "profit_month": "2019-11",
+        "profit_amount": "84312",
+        "profit_type": "转账",
+        "profit_datetime": "2018-02-21"
+      },
+      {
+        "Id": "6",
+        "company_name": "高通集体",
+        "profit_month": "2019-10",
+        "profit_amount": "84512",
+        "profit_type": "转账",
+        "profit_datetime": "2018-02-21"
+      }
+    ],
+		"pageNo": "1",
+		"pageCount": "10",
+		"dataCount": "1"
+	},
+	"s_state":"ss0000"
+}

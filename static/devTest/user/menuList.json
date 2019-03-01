@@ -1,0 +1,13 @@
+{
+	"s_state": "ss0000",
+	"list": {
+		"/": "首页",
+		"/mp/basic/information": "基本信息",
+		"/mp/business/query-traffic-penalty-coad": "违章查询流水",
+      	"/mp/business/query-statistic-coad": "违章查询统计",
+      	"/mp/business/query-tp-order": "代缴订单查询",
+      	"/mp/business/statistic-tp-order": "代缴订单统计",
+      	"/mp/business/statistic-tp-pfofit": "代缴分润统计",
+      	"/mp/business/query-pfofit-record": "代缴分润记录"
+	}
+}
